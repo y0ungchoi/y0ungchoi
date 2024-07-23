@@ -1,8 +1,6 @@
-## Hi, Hallo, 안녕 👋 
 
-[<img src="https://github.com/user-attachments/assets/e0ac283e-6663-4bb0-a7d2-df92ffda8189" width="250" height="250"/>](https://codepen.io/carolineartz/pen/VwYwZaP)
+[<img src="https://github.com/user-attachments/assets/02eb74e5-f07b-4f13-88ae-d99bc0ca8bb4" />](https://codepen.io/carolineartz/pen/VwYwZaP)
 
-Welcome to my Github Profile!
 I'm Eun-young from 🇰🇷 **Seoul, South Korea**, currently studying Web engineering @[TUC](https://www.tu-chemnitz.de) in 🇩🇪 **Chemnitz, Germany**.
 
 ### Things I code with
@@ -25,7 +23,7 @@ I'm Eun-young from 🇰🇷 **Seoul, South Korea**, currently studying Web engin
 - 🛠 I'm currently working on making a responsive website. Check out my [project](https://github.com/y0ungchoi/CareChemnitz)
 - 🌱 I’m currently learning German, and Advanced React.js
 - 😺 I'm a cat person
-- 🕵🏻‍♀️ I love online room escape games. If you also like them, please try [mildescape room escape game](https://neat-escape.com/webgames/)!
+- 🕵🏻‍♀️ I love online room escape games. If you also like them, please try [Mildescape Room Escape Game](https://neat-escape.com/webgames/)!
 - 📫 How to reach me
  <br> <a href="https://www.linkedin.com/in/y0ungchoi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youngchoi2094@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
