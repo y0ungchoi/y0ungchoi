@@ -27,5 +27,5 @@ I'm Eun-young from 🇰🇷 **Seoul, South Korea**, currently studying Web engin
 - 😺 I'm a cat person
 - 🕵🏻‍♀️ I love solving problems in online room escape games. If you do too, check out [Mildescape Room Escape Game](https://neat-escape.com/webgames/)!
 - 📫 How to reach me
- <br> <a href="https://www.linkedin.com/in/y0ungchoi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youngchoi2094@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+ <br> <a href="https://www.linkedin.com/in/y0ungchoi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youngchoi2094@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stackoverflow.com/users/6638699/emily-c"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
 
