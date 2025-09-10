@@ -1,7 +1,7 @@
 
 [<img src="https://github.com/user-attachments/assets/02eb74e5-f07b-4f13-88ae-d99bc0ca8bb4" />](https://codepen.io/carolineartz/pen/VwYwZaP)
 
-I'm Eun-young from 🇰🇷 **Seoul, South Korea**, currently studying Web engineering @[TUC](https://www.tu-chemnitz.de) in 🇩🇪 **Chemnitz, Germany**.
+I'm Eun-young from 🇰🇷 **Seoul, South Korea**, living in 🇩🇪 **Germany**.
 
 ### Things I code with
 <p>
